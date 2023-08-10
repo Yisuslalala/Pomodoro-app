@@ -19,10 +19,10 @@ function Pomodoro() {
         <p>{counter}</p>
         <div className="buttons">
           <button className="addBtn" onClick={AddCounter}>
-            Sumar 5
+            Sumar 5 mins
           </button>
           <button className="subBtn" onClick={SubCounter}>
-            Restar 5
+            Restar 5 mins
           </button>
         </div>
       </div>

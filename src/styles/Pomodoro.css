@@ -22,30 +22,29 @@
     height: fit-content;
     height: 45px;
     width: 160px;
-
     font-size: large;
 }
 
 .addBtn {
     background-color: white;
     color: black;
-    border: 2px solid rgb(0, 0, 128);
+    border: 2px solid #02182B;
     border-radius: 2px;
 }
 
 .addBtn:hover {
-        background-color: rgb(0, 0, 128);
-        color: white;
+    background-color: #02182B;
+    color: white;
 }
 
 .subBtn {
     background-color: white;
     color: black;
-    border: 2px solid rgb(128, 0, 0);
+    border: 2px solid #D7263D;
     border-radius: 2px;
 }
 
 .subBtn:hover {
-    background-color: rgb(128, 0, 0);
+    background-color: #D7263D;
     color: white;
 } 
