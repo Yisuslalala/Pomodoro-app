@@ -1,9 +1,11 @@
+import Pomodoro from "./pages/Pomodoro";
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-      Hello
+      <Pomodoro />
     </div>
   );
 }
